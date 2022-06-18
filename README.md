@@ -25,7 +25,7 @@ Explore the data for any meaningful patterns and and present the insights to hel
   * Preparing a dashboard and a presentation for the client
   
 ## Data Source <br> 
-  
+  https://github.com/UmrahJaved/Data-visualization-of-restaurant-dataset/tree/main/Dataset
 ## Visuals <br> 
 **For the reasons of the confidentiality, the data provided is ficticious and that leaves us with some surprising results.** 
   
