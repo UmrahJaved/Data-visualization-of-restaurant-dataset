@@ -3,6 +3,8 @@
 <img src="https://becode.org/app/uploads/2021/06/logo-becode.png" alt="Logo" width="200" height="200"></a></p>
 <h3 align="center"> Data visualisation group project at <a href="https://github.com/becodeorg"><strong>BeCode</strong></a></h3>
 <h3 align="center"> Contributors: <a href="https://github.com/UmrahJaved">Umrah Javed,<a href="https://github.com/anjalitiwari28"> Anjali, <a href="https://github.com/dilsadozbrk">Dilsad, <a href="https://github.com/KristofVandewynckel/KristofVandewynckel">Kristof, <a href="https://github.com/Len-Fid">Lena, <a href="https://github.com/MouadBelayachi">Mouad</a></h3> <br>
+<h3 align="center"> <a href="https://docs.google.com/presentation/d/1pvi3H-cpcx2-YWQB0gnjNqldjCXmcwGEyepVd1dQDHw/edit#slide=id.p">Project Presentation</a></h3>
+
   
 ## Description:
 
