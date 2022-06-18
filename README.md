@@ -1,4 +1,4 @@
-<h2 align="center">Project Accenture</h2>
+<h2 align="center">Data-visualization-of-restaurant-dataset</h2>
 <p align="center"><a href="https://github.com/CorentinChanet/challenge-collecting-data">
 <img src="https://becode.org/app/uploads/2021/06/logo-becode.png" alt="Logo" width="200" height="200"></a></p>
 <h3 align="center"> Data visualisation group project at <a href="https://github.com/becodeorg"><strong>BeCode</strong></a></h3>
@@ -23,7 +23,9 @@ Explore the data for any meaningful patterns and and present the insights to hel
   * Constructing the visualisations with Power BI 
   * Drawing conclusions
   * Preparing a dashboard and a presentation for the client
-
+  
+## Data Source <br> 
+  
 ## Visuals <br> 
 **For the reasons of the confidentiality, the data provided is ficticious and that leaves us with some surprising results.** 
   
